@@ -24,6 +24,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rubocop'
   spec.add_development_dependency 'webmock'
 
-  spec.add_runtime_dependency 'json-schema', '~> 2.6'
+  spec.add_runtime_dependency 'json-schema', '~> 4.0.0'
   spec.add_runtime_dependency 'murmurhash3', '~> 0.1'
 end
